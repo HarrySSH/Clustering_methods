@@ -14,7 +14,7 @@ import pandas as pd
 from sklearn.datasets import fetch_openml
 from sklearn.decomposition import PCA
 from sklearn.manifold import TSNE
-from sklearn.datasets.samples_generator import make_blobs
+from sklearn.datasets import make_blobs
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 import seaborn as sns
