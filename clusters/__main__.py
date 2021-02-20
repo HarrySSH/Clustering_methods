@@ -1,3 +1,5 @@
+# All stuff here are the codes that are used for answering the questions.
+# It is the same codes which also shown in the PDF.
 import glob
 import pandas as pd
 import numpy as np
