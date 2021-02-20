@@ -1,6 +1,6 @@
 pytest>=3.0
 numpy>=1.11.2
-glob
+glob2
 pandas
 numpy
 os 
