@@ -1,0 +1,13 @@
+pytest>=3.0
+numpy>=1.11.2
+glob
+pandas
+numpy
+os 
+sys
+matplotlib
+time
+sklearn
+mpl_toolkits
+seaborn
+json
