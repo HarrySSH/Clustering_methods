@@ -3,11 +3,10 @@ numpy>=1.11.2
 glob2
 pandas
 numpy
-os 
-sys
+os-sys
 matplotlib
 time
-sklearn
-mpl_toolkits
+scikit-learn
+mpl-toolkits.clifford
 seaborn
 json
