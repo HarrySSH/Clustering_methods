@@ -93,7 +93,7 @@ input are a list of ligands and the decided cluster number
 only used when you are using a small sample size to visilize the Hierarchical clustering plot
 Go over all the nodes and find the smallest distance
 
-* Implement_viz(self)
+* implement_viz(self)
 * show(self)
 
 Visualize the hirarchical clusering, only for a small sample size.
