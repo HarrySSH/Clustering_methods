@@ -9,4 +9,4 @@ times
 scikit-learn
 mpl-toolkits.clifford
 seaborn
-json
+jsonlib
