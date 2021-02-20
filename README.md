@@ -14,7 +14,7 @@ For easy implementation, a ligand class was constructed. For evaluating the clus
 For comparing the clustering pattern, Rand_index matrix is written.
 
 ## Usage 
-Common alignment methos (global alignment and local alignment) for comparing the similarity of two sequences and computed the similarity scores. 
+Common clustering methods.
 
 ## API
 
