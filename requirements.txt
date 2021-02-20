@@ -8,4 +8,3 @@ times
 scikit-learn
 mpl-toolkits.clifford
 seaborn
-jsonlib
