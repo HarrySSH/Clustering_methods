@@ -3,7 +3,6 @@ numpy>=1.11.2
 glob2
 pandas
 numpy
-os-sys
 matplotlib
 times
 scikit-learn
