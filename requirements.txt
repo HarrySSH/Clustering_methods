@@ -5,7 +5,7 @@ pandas
 numpy
 os-sys
 matplotlib
-time
+times
 scikit-learn
 mpl-toolkits.clifford
 seaborn
